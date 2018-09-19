@@ -103,6 +103,7 @@ typedef enum {
     DEVHW_QMC5883,
     DEVHW_MAG3110,
     DEVHW_LIS3MDL,
+    DEVHW_MPU925X_AK8963,
 
     /* OSD chips */
     DEVHW_MAX7456,
